@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Trabalho3</string>
+    <string name="txt_nome">Nome:</string>
+    <string name="txt_valor">Valor:</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_ok">OK</string>
+    <string name="action_add">Adicionar</string>
+</resources>
